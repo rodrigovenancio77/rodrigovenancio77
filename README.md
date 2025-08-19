@@ -9,7 +9,7 @@
 
 ## 📊 Profile Stats
 
-<img src="https://tenor.com/en-GB/view/this-animal-needs-to-be-tamed-gif-7596300441491233822" style="display: block; margin: 0 auto;">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F9%2F96%2FPink_Panther.png&f=1&nofb=1&ipt=23044e11c5ee07b43638ec1c44449b655b8114542d5f78fef155c7b5c4999f6b">
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigovenancio77&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="rodrigovenancio77's GitHub Stats" width ="400"/>
