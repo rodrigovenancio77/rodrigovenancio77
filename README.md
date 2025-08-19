@@ -1,6 +1,7 @@
 # Hi, Rodrigo here 👋
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVvMzVjNmh2MjNoOW9tdXIxMjV3Nm5mcDRhOHdmM2szYjFvNHRtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/322W3VduHG5elXisAh/giphy.gif" align="center">
-
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVvMzVjNmh2MjNoOW9tdXIxMjV3Nm5mcDRhOHdmM2szYjFvNHRtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/322W3VduHG5elXisAh/giphy.gif">
+</div>
 ---
 ## 🧑🏻‍💻 Me
 * Master's student who occasionally does projects
