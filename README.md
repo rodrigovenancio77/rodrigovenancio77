@@ -6,7 +6,7 @@
 
 ---
 ## 🧑🏻‍💻 Me
-* Master's student who occasionally does projects
+* Future Master's student who occasionally does projects
 
 
 ## 📊 Profile Stats
